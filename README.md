@@ -1,1 +1,4 @@
 # CS-330-COMP-GRAPHICS-AND-VISUALIZATION
+The first thing is to understand the requirements and think of each piece of software before prototyping and visualizing my design. In this project, based on the needs, I chose and photographed each component from different angles.
+Computer graphics using OpenGL API require the use of a lot of instructions. I broke down each problem to the smallest and tested how my code worked. For example, when I was drawing the pyramid rooftop, I drew each side of the pyramid using triangles, allowing me to visualize how my code functions. I also modularized my code using different functions.
+Computational graphics and visualization reinforce my problem-solving skills and allow me to practice Object-oriented programming concepts in C++, which I will benefit from in my career as a software engineer.
